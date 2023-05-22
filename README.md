@@ -5,7 +5,7 @@ Request an iUserTools Consultation
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
 
 MobiGogo Web Site
-<a href="https://www.mobigogo.net?" target="_new">https://www.moobigogo.net</a>
+<a href="https://www.mobigogo.net" target="_new">https://www.mobigogo.net</a>
 
 ## Overview
 Open source packages, utilities and languages including Python, Node, Java, PHP and more have been available for several years on IBM i via PASE and QShell.    
