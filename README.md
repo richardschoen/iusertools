@@ -5,7 +5,7 @@ If you want to start incorporating more open source in to your traditional IBM i
 
 Automation and Integration Tools and APIs usable from RPG, CL, COBOL, PASE and QShell.   
 
-Request an iUserTools Consultation to talk about your IBM i open-source, developement or operational needs   
+Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
 
 MobiGogo Web Site   
@@ -50,5 +50,5 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 
 ```Let us know what integrations your company need```
 
-Request an iUserTools Consultation to talk about your IBM i open-source, developement or operational needs   
+Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
