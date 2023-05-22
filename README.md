@@ -40,14 +40,14 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 •	Many of the commands utilize QShell and PASE so this is required.   
 
 ## Types of Utilities Available (Growing Continually via User Requests)
--Command line integration to external DB servers such as SQL Server, PostgreSQL, MariaDB and more via Python.      
--Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
--Utilizing curl to execute and simplify network operations.   
--Zipping and unzipping files with 7Zip and tar commands.   
--Integration to lftp for file transfer.   
--Integration to db and db2 PASE query commands.   
--Sending and receiving email via SMTP, POP, IMAP and Office 365 Graph.     
--Storing and retreiving files to network shares without needing NetServer.   
+•	Command line integration to external DB servers such as SQL Server, PostgreSQL, MariaDB and more via Python.      
+•	Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
+•	Utilizing curl to execute and simplify network operations.   
+•	Zipping and unzipping files with 7Zip and tar commands.   
+•	Integration to lftp for file transfer.   
+•	Integration to db and db2 PASE query commands.   
+•	Sending and receiving email via SMTP, POP, IMAP and Office 365 Graph.     
+•	Storing and retreiving files to network shares without needing NetServer.   
 
 ```Let us know what integrations your company need. We're happy to discuss.```
 
