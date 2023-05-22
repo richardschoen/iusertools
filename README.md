@@ -40,13 +40,14 @@ For more information on iUserTools and adding super powers to your IBM i develop
 ## Types of Utilities Available (Always Growing with User Requests)
 -Command line integration to external DB servers such as SQL Server, PostgreSQL, MariaDB and more via Python.      
 -Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
--Using curl to execute network operations.   
+-Utilizing curl to execute and simplify network operations.   
 -Zipping and unzipping files with 7Zip and tar commands.   
 -Integration to LFTP for file transfer.   
 -Integration to db and db2 PASE query commands.   
 -Sending and receiving email via SMTP, POP, IMPA and Office 365 Graph.     
+-Storing and retreiving files to network shares without needing NetServer.   
 
-```Let us know what integrations you needs```
+```Let us know what integrations your company need```
 
 Request an iUserTools Consultation to talk about your IBM i open-source, developement or operational needs   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
