@@ -14,15 +14,15 @@ MobiGogo Web Site
 ## Overview
 Open source packages, utilities and languages including Python, Node, Java, PHP and more have been available for several years on IBM i via PASE and QShell.    
 
-Developers are developing new apps in open-source languages in PASE and QShell but not often not enabling them to be easily utilized with standard classic jobs streams and apps written using CL, RPG and COBOL.    
+Developers are developing new apps using open-source languages in PASE and QShell but not often not enabling them to be easily utilized with standard classic jobs streams and apps written using CL, RPG and COBOL. 
 
 Imagine if you could couple the power and speed of open-source on iBM i with your classic development to give your classic teams new super powers. Your toolbox of useful CL commands and APIs on IBM i would expand exponentially.    
 
-```iUserTools``` is a great way to integrate all your traditional IBM i programs and processes with both internal classic apps, QShell or PASE apps and the outside world to consume data from external applications and services. All from the comfort of RPG, CL and COBOL.     
+```iUserTools``` is a great way to integrate all your traditional IBM i programs and processes with both internal classic apps, QShell or PASE apps. These apps can also easily integrate with the outside world to consume data from external applications and services. All from the comfort of RPG, CL and COBOL.     
 
-And your annual subscription helps your team stay current on all the integration tech both on your IBM i and externally.     
+And your annual subscription ```helps your IBM i team stay current on all the new open source integration tech``` without the painful learning curve. Your apps can integrate on your IBM i and externally via the web.   
 
-For more information on iUserTools and adding super powers to your IBM i development, integration and operational capabilities, reach out to schedule a discussion. 
+For more information on ```iUserTools``` and adding super powers to your IBM i development, integration and operational capabilities, reach out to schedule a discussion. 
 
 ## Highlights
 •	Install and start using iUserTools in minutes.    
@@ -32,6 +32,7 @@ For more information on iUserTools and adding super powers to your IBM i develop
 •	Your team can request new utilities to be added to the product.    
 •	Your team can contract us for integration services, training and consulting on classic IBM i projects as well as open source apps including:   
    Python, Node.JS, PHP, Java, C# and more.   
+•	Connect with external systems via Database calls, Web API calls, ActiveMQ, Data Queues, Kafka, FTP, SFTP, SMB and more.        
 
 ## IBM i System Requirements   
 •	Must be able to install IBM Open Source Package Management software.      
