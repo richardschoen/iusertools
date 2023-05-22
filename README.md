@@ -39,7 +39,7 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 •	Must be able to install IBM Open Source Package Management software.      
 •	Many of the commands utilize QShell and PASE so this is required.   
 
-## Types of Utilities Available (Always Growing with User Requests)
+## Types of Utilities Available (Growing Continually via User Requests)
 -Command line integration to external DB servers such as SQL Server, PostgreSQL, MariaDB and more via Python.      
 -Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
 -Utilizing curl to execute and simplify network operations.   
