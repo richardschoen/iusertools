@@ -1,7 +1,7 @@
 ## Welcome to MobiGoGo iUserTools 
-```IBM i User Tools``` - Expand and Accelerate Your IBM i Programming, Operations and Networking Toolbox with Open Source Technology
+```IBM i User Tools``` - **Expand and Accelerate Your IBM i Programming, Operations and Networking Toolbox with Open Source Technology**
 
-If you want to start incorporating more open soure in to your traditional IBM i development, you've come to the right place.    
+If you want to start incorporating more open source in to your traditional IBM i development, you've come to the right place.    
 
 Automation and Integration Tools and APIs usable from RPG, CL, COBOL, PASE and QShell.   
 
