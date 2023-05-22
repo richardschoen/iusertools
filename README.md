@@ -18,7 +18,7 @@ Developers are developing new apps in open-source languages in PASE and QShell b
 
 Imagine if you could couple the power and speed of open-source on iBM i with your classic development to give your classic teams new super powers. Your toolbox of useful CL commands and APIs on IBM i would expand exponentially.    
 
-iUserTools is a great way to integrate all your traditional IBM i programs and processes with both internal classic apps, QShell or PASE apps and the outside world to consume data from external applications and services. All from the comfort of RPG, CL and COBOL.     
+```iUserTools``` is a great way to integrate all your traditional IBM i programs and processes with both internal classic apps, QShell or PASE apps and the outside world to consume data from external applications and services. All from the comfort of RPG, CL and COBOL.     
 
 And your annual subscription helps your team stay current on all the integration tech both on your IBM i and externally.     
 
