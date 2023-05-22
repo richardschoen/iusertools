@@ -1,10 +1,14 @@
 ## Welcome to MobiGoGo iUserTools 
-IBM i User Tools - Expand and Accelerate Your IBM i Programming, Operations and Networking Toolbox with Open Source Technology
+```IBM i User Tools``` - Expand and Accelerate Your IBM i Programming, Operations and Networking Toolbox with Open Source Technology
 
-Request an iUserTools Consultation  
+If you want to start incorporating more open soure in to your traditional IBM i development, you've come to the right place.    
+
+Automation and Integration Tools and APIs usable from RPG, CL, COBOL, PASE and QShell.   
+
+Request an iUserTools Consultation to talk about your IBM i open-source, developement or operational needs   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
 
-MobiGogo Web Site
+MobiGogo Web Site   
 <a href="https://www.mobigogo.net" target="_new">https://www.mobigogo.net</a>
 
 ## Overview
@@ -21,15 +25,28 @@ And your annual subscription helps your team stay current on all the integration
 For more information on iUserTools and adding super powers to your IBM i development, integration and operational capabilities, reach out to schedule a discussion. 
 
 ## Highlights
-•	Install and start using iUserTools in minutes.  
-•	All CL commands and API calls are accessible from CL, RPG and COBOL 
-•	Your annual subscription allows you access to all new tools and utilities released during your subscripton period. 
-•	Save time and money by having us create new, supported utilities instead of burdening your IBM i development teams.
-•	Your team can request new utilities to be added to the product. 
-•	Your team can contract us for integration services, training and consulting on classic IBM i projects as well as open source apps including, Python, Node.JS, PHP, Java, C# and more.
+•	Install and start using iUserTools in minutes.    
+•	All CL commands and API calls are accessible from CL, RPG and COBOL     
+•	Your annual subscription allows you access to all new tools and utilities released during your subscripton period.    
+•	Save time and money by having us create new, supported utilities instead of burdening your IBM i development teams.   
+•	Your team can request new utilities to be added to the product.    
+•	Your team can contract us for integration services, training and consulting on classic IBM i projects as well as open source apps including:   
+   Python, Node.JS, PHP, Java, C# and more.   
 
 ## IBM i System Requirements   
-•	Must be able to install IBM Open Source Package Management software.   
-•	Many of the commands utilize QShell and PASE so this is required.
+•	Must be able to install IBM Open Source Package Management software.      
+•	Many of the commands utilize QShell and PASE so this is required.   
 
+## Types of Utilities Available (Always Growing with User Requests)
+-Command line integration to external DB servers such as SQL Server, PostgreSQL, MariaDB and more via Python.      
+-Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
+-Using curl to execute network operations.   
+-Zipping and unzipping files with 7Zip and tar commands.   
+-Integration to LFTP for file transfer.   
+-Integration to db and db2 PASE query commands.   
+-Sending and receiving email via SMTP, POP, IMPA and Office 365 Graph.     
 
+```Let us know what integrations you needs```
+
+Request an iUserTools Consultation to talk about your IBM i open-source, developement or operational needs   
+<a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
