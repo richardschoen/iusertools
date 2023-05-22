@@ -9,6 +9,7 @@ Automation and Integration Tools and APIs usable from RPG, CL, COBOL, PASE and Q
 •	```Call Node Apps``` from CL, RPG and COBOL     
 •	```Call PHP Apps``` from CL, RPG and COBOL     
 •	```Call and QShell/PASE App``` from CL, RPG and COBOL     
+•	```Connect to External Databases and Web Services```    
 •	```Expand Your IBM i Utility Toolbox```   
 
 Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
