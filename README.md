@@ -33,6 +33,7 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 •	Your team can contract us for integration services, training and consulting on classic IBM i projects as well as open source apps including:   
    Python, Node.JS, PHP, Java, C# and more.   
 •	Connect with external systems via Database calls, Web API calls, ActiveMQ, Data Queues, Kafka, FTP, SFTP, SMB and more.        
+•	Archive and retreive IBM i data.   
 
 ## IBM i System Requirements   
 •	Must be able to install IBM Open Source Package Management software.      
@@ -43,12 +44,12 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 -Commands for saving and restoring libraries, objects and IFS objects to save files and Amazon S3 storage.     
 -Utilizing curl to execute and simplify network operations.   
 -Zipping and unzipping files with 7Zip and tar commands.   
--Integration to LFTP for file transfer.   
+-Integration to lftp for file transfer.   
 -Integration to db and db2 PASE query commands.   
--Sending and receiving email via SMTP, POP, IMPA and Office 365 Graph.     
+-Sending and receiving email via SMTP, POP, IMAP and Office 365 Graph.     
 -Storing and retreiving files to network shares without needing NetServer.   
 
-```Let us know what integrations your company need```
+```Let us know what integrations your company need. We're happy to discuss.```
 
 Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
