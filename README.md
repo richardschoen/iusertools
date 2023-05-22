@@ -32,7 +32,7 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 
 ## Highlights
 •	Install and start using iUserTools in minutes.    
-•	All CL commands and API calls are accessible from CL, RPG and COBOL     
+•	All CL commands and API calls are accessible from CL, RPG and COBOL.     
 •	Your annual subscription allows you access to all new tools and utilities released during your subscripton period.    
 •	Save time and money by having us create new, supported utilities instead of burdening your IBM i development teams.   
 •	Your team can request new utilities to be added to the product.    
