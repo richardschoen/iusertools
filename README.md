@@ -12,7 +12,7 @@ Automation and Integration Tools and APIs usable from RPG, CL, COBOL, PASE and Q
 •	```Connect to External Databases and Web Services```    
 •	```Expand Your IBM i Utility Toolbox```   
 
-Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
+Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs.   
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
 
 MobiGogo Web Site   
@@ -59,5 +59,5 @@ For more information on ```iUserTools``` and adding super powers to your IBM i d
 
 ```Let us know what integrations your company need. We're happy to discuss.```
 
-Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs   
+Request an ```iUserTools Consultation``` to talk about your IBM i open-source, developement or operational needs.     
 <a href="mailto:info@mobigogo.net?">info@mobigogo.net</a>
